@@ -22,8 +22,8 @@ pip install package.whl
 > 基于flask, face-recognition开发的人脸服务(RESTful)。基于macOS在外网下载的，安装到Windows7上
 
 * 下载
-[Anaconda](https://www.anaconda.com/download/)
-[dlib](https://github.com/coneypo/Dlib_install/blob/master/dlib-19.8.1-cp36-cp36m-win_amd64.whl)
+> * [Anaconda](https://www.anaconda.com/download/)
+> * [dlib](https://github.com/coneypo/Dlib_install/blob/master/dlib-19.8.1-cp36-cp36m-win_amd64.whl)
 
 ```
 pip download flask
@@ -32,7 +32,7 @@ pip download face_recognition
 ```
 
 * 安装
-Anaconda
+> * Anaconda
 
 ```bash
 pip install --no-index --find-links . dlib-19.8.1-cp36-cp36m-win_amd64.whl
