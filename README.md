@@ -1,6 +1,8 @@
 # 开发日志
 
 ## 2018
+* 1016 [标记睁眼和闭眼](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/apply/open_eye_close_eye.ipynb)
+* 1016 [标记张嘴和闭嘴](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/apply/open_mouth_close_mouth.ipynb)
 * 1015 [人脸识别iOS静态库](http://nbviewer.jupyter.org/github/wang-junjian/face-recognition-services/blob/master/face_recognition_ios_static.ipynb)
 * 1014 [创建 helloworld Docker镜像](https://github.com/wang-junjian/learn-docker/blob/master/helloworld.md)
 
