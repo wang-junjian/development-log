@@ -1,6 +1,8 @@
 # 开发日志
 
 ## 2018
+* 1107 [VPN](2018/vpn.md)
+
 * 1030 [Jupyter Notebook Update](2018/jupyter-notebook-update.md)
 * 1017 [MNIST](http://nbviewer.jupyter.org/github/wang-junjian/development-log/blob/master/2018/mnist.ipynb)
 * 1016 [标记睁眼和闭眼](http://nbviewer.jupyter.org/github/wang-junjian/learn-python/blob/master/python_in_action/apply/open_eye_close_eye.ipynb)
