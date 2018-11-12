@@ -2,6 +2,8 @@
 
 > 记录m转jar，进行矩阵计算时，出现内存泄漏的问题。
 
+[创建 JDK-MCR 镜像](https://github.com/wang-junjian/learn-docker/blob/master/jdk-mcr.md)
+
 ## 参考资料
 * [MATLAB Compiler Runtime](https://ww2.mathworks.cn/products/compiler/matlab-runtime.html)
 * [MATLAB Production Server](https://www.mathworks.com/products/matlab-production-server.html)
