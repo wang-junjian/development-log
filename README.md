@@ -1,7 +1,7 @@
 # 开发日志
 
 ## 2018
-* 1112 [MCR](2018/mcr.md)
+* 1112 [MATLAB Compiler Runtime (MCR)](2018/mcr.md)
 * 1107 [VPN](2018/vpn.md)
 
 * 1030 [Jupyter Notebook Update](2018/jupyter-notebook-update.md)
