@@ -2,7 +2,7 @@
 
 ## 2018
 * 1112 [MATLAB Compiler Runtime (MCR)](2018/mcr.md)
-* 1107 [VPN](2018/vpn.md)
+* 1107 [科学上网 VPN VPS](2018/science-online.md)
 
 * 1030 [Jupyter Notebook Update](2018/jupyter-notebook-update.md)
 * 1017 [MNIST](http://nbviewer.jupyter.org/github/wang-junjian/development-log/blob/master/2018/mnist.ipynb)
