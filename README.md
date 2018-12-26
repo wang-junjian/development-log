@@ -1,6 +1,10 @@
 # 开发日志
 
 ## 2018
+* 1226 [开启SSH服务](https://github.com/wang-junjian/learn-linux/blob/master/open-ssh-service.md)
+* 1226 [MAC远程连接Ubuntu桌面](https://github.com/wang-junjian/learn-linux/blob/master/mac-remote-connection-ubuntu-desktop.md)
+* 1226 [开机](https://github.com/wang-junjian/learn-linux/blob/master/shutdown.md)
+
 * 1130 [2018人工智能](2018/ai.md)
 * 1112 [MATLAB Compiler Runtime (MCR)](2018/mcr.md)
 * 1107 [科学上网 VPN VPS](2018/science-online.md)
