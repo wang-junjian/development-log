@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2018
+* 1231 [GPU工具](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/gpu-tools.md)
 * 1229 [在Ubuntu上安装CUDA和cuDNN](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/ubuntu-install-cuda-cudnn.md)
 * 1226 [开启SSH服务](https://github.com/wang-junjian/learn-linux/blob/master/open-ssh-service.md)
 * 1226 [MAC远程连接Ubuntu桌面](https://github.com/wang-junjian/learn-linux/blob/master/mac-remote-connection-ubuntu-desktop.md)
