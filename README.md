@@ -1,5 +1,8 @@
 # 开发日志
 
+## 2019
+* 0108 [安装图像标注工具 LabelImg](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/install-image-annotation-tool-labelimg.md)
+
 ## 2018
 * 1231 [GPU工具](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/gpu-tools.md)
 * 1229 [在Ubuntu上安装CUDA和cuDNN](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/ubuntu-install-cuda-cudnn.md)
