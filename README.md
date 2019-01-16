@@ -1,7 +1,12 @@
 # 开发日志
 
 ## 2019
+* 0116 [Install OpenCV4 on CentOS7](https://github.com/wang-junjian/learn-opencv/blob/master/install.md)
+* 0114 [Python科学计算：Pandas](https://github.com/wang-junjian/geektime/blob/master/数据分析实战/05_pandas.ipynb)
+* 0111 [Customize training with YOLOv3](https://github.com/wang-junjian/customize-training-with-yolov3)
+* 0109 [Through the wall 穿墙而过](https://github.com/wang-junjian/through-the-wall)
 * 0108 [安装图像标注工具 LabelImg](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/install-image-annotation-tool-labelimg.md)
+* 0107 [OpenLabeling：修复了用快捷键换图不更新的问题；修复快捷键w和s反了的问题。](https://github.com/wang-junjian/OpenLabeling)
 
 ## 2018
 * 1231 [GPU工具](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/gpu-tools.md)
