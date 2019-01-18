@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0118 [EXE注册Windows服务](2019/exe_register_windows_service.md)
 * 0116 [Install OpenCV4 on CentOS7](https://github.com/wang-junjian/learn-opencv/blob/master/install.md)
 * 0114 [Python科学计算：Pandas](https://github.com/wang-junjian/geektime/blob/master/数据分析实战/05_pandas.ipynb)
 * 0111 [Customize training with YOLOv3](https://github.com/wang-junjian/customize-training-with-yolov3)
