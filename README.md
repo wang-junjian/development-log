@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0124 [wget 保存指定文件名](2019/wget_save_filename.md)
 * 0123 [在容器中使用NVIDIA GPU](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/use_nvidia_gpu_in_container.md)
 * 0123 [mstsc 不能拷贝文件](2019/mstsc_does_not_copy_files.md)
 * 0118 [EXE注册Windows服务](2019/exe_register_windows_service.md)
