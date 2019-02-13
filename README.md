@@ -1,6 +1,8 @@
 # 开发日志
 
 ## 2019
+* 0213 [在Dell服务器T630上安装操作系统](2019/install_os_in_dell_server_with_t630.md)
+
 * 0125 [Ubuntu安装后设置root用户密码](2019/ubuntu_after_installation_set_root_password.md)
 * 0124 [wget 保存指定文件名](2019/wget_save_filename.md)
 * 0123 [在容器中使用NVIDIA GPU](https://github.com/wang-junjian/learn-ai/blob/master/deep-learning-environment-configuration/use_nvidia_gpu_in_container.md)
