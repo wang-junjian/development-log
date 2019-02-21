@@ -1,6 +1,8 @@
 # 开发日志
 
 ## 2019
+* 0221 [离线安装Docker CE](https://github.com/wang-junjian/learn-docker/blob/master/install_docker_ce.md)
+* 0220 [部署注册表服务器](https://github.com/wang-junjian/learn-docker/blob/master/deploy-a-registry-server.md)
 * 0213 [在Dell服务器T630上安装操作系统](2019/install_os_in_dell_server_with_t630.md)
 
 * 0125 [Ubuntu安装后设置root用户密码](2019/ubuntu_after_installation_set_root_password.md)
