@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0325 [Ubuntu 离线安装 gcc make](2019/ubuntu_offline_gcc_make.md)
 * 0308 [Homework 1 Counting the Lines](2019/Homework1-CountingtheLines)
 
 * 0221 [删除当前状态为退出的所有容器](https://github.com/wang-junjian/learn-docker/blob/master/docker_command.md)
