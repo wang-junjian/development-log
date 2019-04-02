@@ -1,6 +1,8 @@
 # 开发日志
 
 ## 2019
+* 0402 [挂载硬盘](https://github.com/wang-junjian/learn-linux/blob/master/mount-harddisk.md)
+
 * 0328 [Shell脚本并发执行curl调用人脸识别REST API](2019/parallel_execute_curl.md)
 * 0325 [Ubuntu 离线安装 gcc make](2019/ubuntu_offline_gcc_make.md)
 * 0308 [Homework 1 Counting the Lines](2019/Homework1-CountingtheLines)
