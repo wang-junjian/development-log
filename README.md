@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0412 [Linux⽹络配置](https://github.com/wang-junjian/learn-linux/blob/master/linux-network-config.md)
 * 0404 [远程操作](https://github.com/wang-junjian/learn-linux/blob/master/remote-operation.md)
 * 0402 [挂载硬盘](https://github.com/wang-junjian/learn-linux/blob/master/mount-harddisk.md)
 
