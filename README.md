@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0417 [统计目录下文件数量](https://github.com/wang-junjian/learn-linux/blob/master/number-of-files-in-the-statistics-directory.md)
 * 0416 [显示目录内容排序](https://github.com/wang-junjian/learn-linux/blob/master/list-directory-contents.md)
 * 0412 [Linux⽹络配置](https://github.com/wang-junjian/learn-linux/blob/master/linux-network-config.md)
 * 0404 [远程操作](https://github.com/wang-junjian/learn-linux/blob/master/remote-operation.md)
