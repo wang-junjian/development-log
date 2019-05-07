@@ -1,6 +1,8 @@
 # 开发日志
 
 ## 2019
+* 0507 [How to tell if a Linux machine supports AVX/AVX2 instructions?](https://stackoverflow.com/questions/37480071/how-to-tell-if-a-linux-machine-supports-avx-avx2-instructions)
+
 * 0422 [tar](2019/tar.md)
 * 0419 [我的NTFS格式的移动硬盘上的文件夹在macOS上打不开了。解决因更改个人文件夹中项目的权限而导致的问题](https://support.apple.com/zh-cn/HT203538)
 * 0418 [ssh连接如何退出](2019/ssh-connection-exit.md)
