@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0512 [git clone --depth=1时的一些问题](https://www.jianshu.com/p/1031dd2a6c3a)
 * 0507 [How to tell if a Linux machine supports AVX/AVX2 instructions?](https://stackoverflow.com/questions/37480071/how-to-tell-if-a-linux-machine-supports-avx-avx2-instructions)
 
 * 0422 [tar](2019/tar.md)
