@@ -1,6 +1,8 @@
 # 开发日志
 
 ## 2019
+* 0527 [Mac下如何格式化U盘](https://jingyan.baidu.com/article/9c69d48f402c6013c9024e3c.html)
+* 0518 [autoreconf: not found](https://www.cnblogs.com/limei/archive/2011/09/22/2185399.html)
 * 0512 [git clone --depth=1时的一些问题](https://www.jianshu.com/p/1031dd2a6c3a)
 * 0507 [How to tell if a Linux machine supports AVX/AVX2 instructions?](https://stackoverflow.com/questions/37480071/how-to-tell-if-a-linux-machine-supports-avx-avx2-instructions)
 
