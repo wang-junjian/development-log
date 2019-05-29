@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0529 [Cache for python pip downloads and wheels in Docker](https://medium.com/@scythargon/cache-for-python-pip-downloads-and-wheels-in-docker-67f24e7cd84e)
 * 0529 [Using Docker? Don’t forget to use build caching!](https://medium.com/@aidobreen/using-docker-dont-forget-to-use-build-caching-6e2b4f43771e)
 * 0529 [ImportError: libSM.so.6: cannot open shared object file: No such file or directory](https://stackoverflow.com/questions/47113029/importerror-libsm-so-6-cannot-open-shared-object-file-no-such-file-or-directo)
 * 0528 [如果 Mac 不能按预期进入睡眠状态](https://support.apple.com/zh-cn/HT204760)
