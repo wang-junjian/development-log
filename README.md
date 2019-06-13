@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0613 [Linux恢复误删除的文件或者目录](https://www.jianshu.com/p/662293f12a47)
 * 0603 [docker: Error response from daemon: OCI runtime create failed](2019/docker_Error_response_from_daemon_OCI_runtime_create_failed.md)
 
 * 0530 [删除pip安装缓存](https://blog.csdn.net/kangkanglou/article/details/78955298)
