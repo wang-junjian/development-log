@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0614 [How can I install the `ll` command on Mac OS X?](https://unix.stackexchange.com/questions/28425/how-can-i-install-the-ll-command-on-mac-os-x)
 * 0613 [login to black screen in 18.04](https://askubuntu.com/questions/1041054/login-to-black-screen-in-18-04)
 * 0613 [Linux恢复误删除的文件或者目录](https://www.jianshu.com/p/662293f12a47)
 * 0603 [docker: Error response from daemon: OCI runtime create failed](2019/docker_Error_response_from_daemon_OCI_runtime_create_failed.md)
