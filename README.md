@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0619 [如何通过 Apple Watch 解锁 Mac](https://support.apple.com/zh-cn/HT206995)
 * 0617 [gRPC + Image Upload](https://stackoverflow.com/questions/34969446/grpc-image-upload/34982660)
 * 0614 [How can I install the `ll` command on Mac OS X?](https://unix.stackexchange.com/questions/28425/how-can-i-install-the-ll-command-on-mac-os-x)
 * 0613 [login to black screen in 18.04](https://askubuntu.com/questions/1041054/login-to-black-screen-in-18-04)
