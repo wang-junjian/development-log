@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0620 [在 Apple Watch 上使用 Siri](https://support.apple.com/zh-cn/HT205184)
 * 0619 [如何通过 Apple Watch 解锁 Mac](https://support.apple.com/zh-cn/HT206995)
 * 0617 [gRPC + Image Upload](https://stackoverflow.com/questions/34969446/grpc-image-upload/34982660)
 * 0614 [How can I install the `ll` command on Mac OS X?](https://unix.stackexchange.com/questions/28425/how-can-i-install-the-ll-command-on-mac-os-x)
