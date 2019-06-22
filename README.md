@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0622 [What's the best practice using a settings file in Python?](https://stackoverflow.com/questions/5055042/whats-the-best-practice-using-a-settings-file-in-python)
 * 0622 [How to install python3 version of package via pip on Ubuntu?](https://stackoverflow.com/questions/10763440/how-to-install-python3-version-of-package-via-pip-on-ubuntu)
 * 0622 [Docker build ignoring .dockerignore](https://forums.docker.com/t/docker-build-ignoring-dockerignore/11991)
 * 0622 [Best way to convert string to bytes in Python 3?](https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3)
