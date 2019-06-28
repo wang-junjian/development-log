@@ -1,6 +1,10 @@
 # 开发日志
 
 ## 2019
+* 0628 [Python pip离线安装package方法总结（以TensorFlow为例）](https://imshuai.com/python-pip-install-package-offline-tensorflow)
+* 0628 [pip download](https://pip.pypa.io/en/stable/reference/pip_download/)
+* 0628 [Using Python pip offline](http://timstaley.co.uk/posts/using-python-pip-offline/)
+* 0628 [python 3.6 安装 Twisted 错误与解决](https://blog.csdn.net/hunter_wyh/article/details/78422121)
 * 0622 [What's the best practice using a settings file in Python?](https://stackoverflow.com/questions/5055042/whats-the-best-practice-using-a-settings-file-in-python)
 * 0622 [How to install python3 version of package via pip on Ubuntu?](https://stackoverflow.com/questions/10763440/how-to-install-python3-version-of-package-via-pip-on-ubuntu)
 * 0622 [Docker build ignoring .dockerignore](https://forums.docker.com/t/docker-build-ignoring-dockerignore/11991)
