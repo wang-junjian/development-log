@@ -1,6 +1,8 @@
 # 开发日志
 
 ## 2019
+* 0705 [Apple Watch 上的状态图标和符号](https://support.apple.com/zh-cn/HT205550)
+
 * 0628 [Python pip离线安装package方法总结（以TensorFlow为例）](https://imshuai.com/python-pip-install-package-offline-tensorflow)
 * 0628 [pip download](https://pip.pypa.io/en/stable/reference/pip_download/)
 * 0628 [Using Python pip offline](http://timstaley.co.uk/posts/using-python-pip-offline/)
