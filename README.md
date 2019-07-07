@@ -1,6 +1,7 @@
 # 开发日志
 
 ## 2019
+* 0707 [OpenCV High-level GUI Qt New Functions](https://docs.opencv.org/3.4/dc/d46/group__highgui__qt.html)
 * 0705 [Apple Watch 上的状态图标和符号](https://support.apple.com/zh-cn/HT205550)
 
 * 0628 [Python pip离线安装package方法总结（以TensorFlow为例）](https://imshuai.com/python-pip-install-package-offline-tensorflow)
