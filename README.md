@@ -1,6 +1,12 @@
 # 开发日志
 
 ## 2019
+* 0717 [Linux添加用户（user）到用户组（group）](https://blog.csdn.net/u013078295/article/details/52173311)
+* 0717 [linux useradd 命令基本用法](https://www.cnblogs.com/sparkdev/p/5823353.html)
+* 0717 [How to Add and Delete Users on Ubuntu 18.04](https://linuxize.com/post/how-to-add-and-delete-users-on-ubuntu-18-04/)
+* 0717 [Ubuntu用户管理（创建用户、切换用户、修改密码等）](https://blog.csdn.net/ezhchai/article/details/79273741)
+* 0717 [Ubuntu中useradd和adduser的区别](http://os.51cto.com/art/201104/256231.htm)
+* 0712 [Image size (Python, OpenCV)](https://stackoverflow.com/questions/13033278/image-size-python-opencv)
 * 0707 [OpenCV High-level GUI Qt New Functions](https://docs.opencv.org/3.4/dc/d46/group__highgui__qt.html)
 * 0705 [Apple Watch 上的状态图标和符号](https://support.apple.com/zh-cn/HT205550)
 
